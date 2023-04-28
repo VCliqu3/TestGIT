@@ -1,0 +1,14 @@
+C:\Users\Raphael\Desktop\Raphael\2023-1\TDVJ3D\Clases Programacion\Semana 6\TestGIT\bin\Debug\netcoreapp3.1\TestGIT.exe
+C:\Users\Raphael\Desktop\Raphael\2023-1\TDVJ3D\Clases Programacion\Semana 6\TestGIT\bin\Debug\netcoreapp3.1\TestGIT.deps.json
+C:\Users\Raphael\Desktop\Raphael\2023-1\TDVJ3D\Clases Programacion\Semana 6\TestGIT\bin\Debug\netcoreapp3.1\TestGIT.runtimeconfig.json
+C:\Users\Raphael\Desktop\Raphael\2023-1\TDVJ3D\Clases Programacion\Semana 6\TestGIT\bin\Debug\netcoreapp3.1\TestGIT.runtimeconfig.dev.json
+C:\Users\Raphael\Desktop\Raphael\2023-1\TDVJ3D\Clases Programacion\Semana 6\TestGIT\bin\Debug\netcoreapp3.1\TestGIT.dll
+C:\Users\Raphael\Desktop\Raphael\2023-1\TDVJ3D\Clases Programacion\Semana 6\TestGIT\bin\Debug\netcoreapp3.1\TestGIT.pdb
+C:\Users\Raphael\Desktop\Raphael\2023-1\TDVJ3D\Clases Programacion\Semana 6\TestGIT\obj\Debug\netcoreapp3.1\TestGIT.csproj.AssemblyReference.cache
+C:\Users\Raphael\Desktop\Raphael\2023-1\TDVJ3D\Clases Programacion\Semana 6\TestGIT\obj\Debug\netcoreapp3.1\TestGIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raphael\Desktop\Raphael\2023-1\TDVJ3D\Clases Programacion\Semana 6\TestGIT\obj\Debug\netcoreapp3.1\TestGIT.AssemblyInfoInputs.cache
+C:\Users\Raphael\Desktop\Raphael\2023-1\TDVJ3D\Clases Programacion\Semana 6\TestGIT\obj\Debug\netcoreapp3.1\TestGIT.AssemblyInfo.cs
+C:\Users\Raphael\Desktop\Raphael\2023-1\TDVJ3D\Clases Programacion\Semana 6\TestGIT\obj\Debug\netcoreapp3.1\TestGIT.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\Desktop\Raphael\2023-1\TDVJ3D\Clases Programacion\Semana 6\TestGIT\obj\Debug\netcoreapp3.1\TestGIT.dll
+C:\Users\Raphael\Desktop\Raphael\2023-1\TDVJ3D\Clases Programacion\Semana 6\TestGIT\obj\Debug\netcoreapp3.1\TestGIT.pdb
+C:\Users\Raphael\Desktop\Raphael\2023-1\TDVJ3D\Clases Programacion\Semana 6\TestGIT\obj\Debug\netcoreapp3.1\TestGIT.genruntimeconfig.cache
